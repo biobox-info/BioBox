@@ -1,5 +1,5 @@
 # BioBox
-BioBox Application
+Welcome to BioBox Application Hosting Page!
 
 ## Dependencies
 
